@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gitvishal96
-- 👀 I’m interested in Blockchain, crypto, Nft's and DAAP's
-- 🌱 I’m currently learning Blockchain Development.
-- 💞️ I’m looking to collaborate on BLockchain and NFT development.
+- 👀 I’m building AI solutions that can really awesome and boring things as well, to solve real world problems, one at a time
+- 🌱 I’m currently working on AI agents real world use cases
+- 💞️ Open to colloborate on AI agents, smart agentic systems that can really do amazing things.
 - 📫 How to reach me kumar.vishal9626@gmail.com
 
 <!---
